@@ -15,9 +15,18 @@
   --caption: 400 0.75rem/1.2135000228881836rem Poppins; 
   
 }
+header{
+  font-family: 'Poppins', sans-serif;
+  padding-bottom: 50px  ;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
 
 body {
   font: var(--body1);
+
 }
 
 h1{
@@ -44,4 +53,24 @@ form{
 li{
   display: inline-block;
 }
-
+.btn1{
+  background: #6610f2;
+  border: #6610f2 ;
+  border-radius: 5px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 2px;
+  height: 50px;
+  width: 150px;
+}
+.txt1{
+  color:#6610f2 ;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+.flecha{
+  width: 50px;
+  height: 50px;
+}
